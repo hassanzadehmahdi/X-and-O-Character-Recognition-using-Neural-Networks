@@ -1,5 +1,6 @@
 # X-and-O-Character-Recognition-using-Neural-Networks
-In this project, I used Hebbian, Perceptron, Adaline, MultiClassPerceptron and MultiClassAdaline neural networks to implement X and O character recognition. I used Qt5 for ui. 
+In this project, I used Hebbian, Perceptron, Adaline, MultiClassPerceptron and MultiClassAdaline neural networks to implement X and O character recognition. 
+I used Qt5 for UI. 
 
 ### Hebbian
 
