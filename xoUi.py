@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # -*- coding: utf-8 -*-
 
 # Form implementation generated from reading ui file 'mahdi.ui'
@@ -425,7 +424,7 @@ if __name__ == "__main__":
     ui.setupUi(MainWindow)
     MainWindow.show()
     sys.exit(app.exec_())
-=======
+
 # -*- coding: utf-8 -*-
 
 # Form implementation generated from reading ui file 'mahdi.ui'
@@ -851,4 +850,3 @@ if __name__ == "__main__":
     ui.setupUi(MainWindow)
     MainWindow.show()
     sys.exit(app.exec_())
->>>>>>> dac45fe62f4593f206f0b4ac3943f8814440490f

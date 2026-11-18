@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import numpy as np
 
 # initial values
@@ -179,7 +178,7 @@ def multiClassAdaline():
                 bias[1] = bias[1] + (learning_rate * error2)
 
     return weights, bias
-=======
+
 import numpy as np
 
 # initial values
@@ -345,4 +344,3 @@ def multiClassAdaline():
                 bias[1] = bias[1] + (learning_rate * error2)
 
     return weights, bias
->>>>>>> dac45fe62f4593f206f0b4ac3943f8814440490f
