@@ -2,6 +2,9 @@
 In this project, I used Hebbian, Perceptron, Adaline, MultiClassPerceptron and MultiClassAdaline neural networks to implement X and O character recognition. 
 I used Qt5 for UI. 
 
+### mcculloch-pitts
+The first work now generally recognized as AI was done by Warren McCulloch and Walter Pitts (1943); it draws upon biological neurons and their simulation to create an artificial neuron
+
 ### Hebbian
 
 Hebbian Learning Rule, also known as Hebb Learning Rule, was proposed by Donald O Hebb. It is one of the first and also easiest learning rules in the neural network. It is used for pattern classification. It is a single layer neural network, i.e. it has one input layer and one output layer. The input layer can have many units, say n. The output layer only has one unit. Hebbian rule works by updating the weights between neurons in the neural network for each training sample.
